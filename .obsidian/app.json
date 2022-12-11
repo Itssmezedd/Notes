@@ -1,0 +1,28 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "rightToLeft": false,
+  "strictLineBreaks": false,
+  "useTab": true,
+  "autoPairMarkdown": true,
+  "showFrontmatter": false,
+  "showInlineTitle": false,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "_Attachments",
+  "newFileLocation": "folder",
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": [
+    "_Attachments/",
+    "_Templates/"
+  ],
+  "newFileFolderPath": "Notes",
+  "tabSize": 3,
+  "vimMode": false,
+  "trashOption": "none"
+}

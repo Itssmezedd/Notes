@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "2c3a872e7e09ebdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "53b9c68d7c041761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec35235112c7428",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_Canvas/workspace.md"
+              }
+            }
+          },
+          {
+            "id": "043bc6be27069962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/Money/003 tiktok affliate.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59de4eeecc72b0ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c6a5d9a9647af32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "489c98c63852a133",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efb015f60a249f7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5110321044922
+  },
+  "right": {
+    "id": "abe41e0c556fd9ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "7420da7ef01ad8ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e54d4321bfd57ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Files/Money/003 tiktok affliate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a20556bcbf72fc48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Files/Money/003 tiktok affliate.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "043bc6be27069962",
+  "lastOpenFiles": [
+    "Files/Money/002 plan.md",
+    "Files/Money/003 tiktok affliate.md",
+    "_Canvas/workspace.md",
+    "Files/Money/001 how money works.md",
+    "Files/_Notes/002 optimize windows.md",
+    "Files/_Notes/001 useful sites.md",
+    "_Attachments/Pasted image 20221119015806.png",
+    "_Attachments/html tag.png",
+    "_Attachments/list.png",
+    "_Attachments/internet works.png"
+  ]
+}

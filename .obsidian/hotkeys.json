@@ -1,0 +1,29 @@
+{
+  "templater-obsidian:Templates/center text.md": [],
+  "templater-obsidian:Templates/headings.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
+  "app:toggle-left-sidebar": [],
+  "obsidian-excalidraw-plugin:excalidraw-enable-autosave": []
+}

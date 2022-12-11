@@ -1,0 +1,17 @@
+{
+  "accentColor": "#708dd2",
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "paragraph spacing",
+    "settings",
+    "obsidian",
+    "table-border",
+    "media-grid-snippet"
+  ]
+}
