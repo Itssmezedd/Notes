@@ -10,7 +10,7 @@
   "showFrontmatter": false,
   "showInlineTitle": false,
   "defaultViewMode": "source",
-  "attachmentFolderPath": "_Attachments",
+  "attachmentFolderPath": "_/_Attachments",
   "newFileLocation": "folder",
   "showLineNumber": false,
   "showIndentGuide": false,
@@ -18,8 +18,8 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
   "userIgnoreFilters": [
-    "_Attachments/",
-    "_Templates/"
+    "_/_Attachments/",
+    "_/_Templates/"
   ],
   "newFileFolderPath": "Notes",
   "tabSize": 3,

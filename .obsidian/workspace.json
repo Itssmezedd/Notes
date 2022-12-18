@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "_Canvas/workspace.md"
+                "file": "Excalidraw/workspace.md"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/Money/003 tiktok affliate.md",
+                "file": "Files/Money/002 plan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Money/003 tiktok affliate.md",
+                "file": "Files/Money/002 plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Money/003 tiktok affliate.md"
+                "file": "Files/Money/002 plan.md"
               }
             }
           }
@@ -115,9 +115,9 @@
   },
   "active": "043bc6be27069962",
   "lastOpenFiles": [
-    "Files/Money/002 plan.md",
     "Files/Money/003 tiktok affliate.md",
-    "_Canvas/workspace.md",
+    "Files/Money/002 plan.md",
+    "Excalidraw/workspace.md",
     "Files/Money/001 how money works.md",
     "Files/_Notes/002 optimize windows.md",
     "Files/_Notes/001 useful sites.md",
